@@ -12,4 +12,5 @@ class ChattyStudent < Student
       puts chatty_phrase
     end
   end
+  end
 end
