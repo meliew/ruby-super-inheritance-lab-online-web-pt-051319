@@ -7,10 +7,24 @@ class ChattyStudent < Student
 
   def raise_hand
     super
-    chatty_phrase = "Pick Me!"
-    do 10.times
-      puts chatty_phrase
+  puts "Pick me!"
+  puts "Pick me!"
+
+  puts "Pick me!"
+
+  puts "Pick me!"
+
+  puts "Pick me!"
+
+  puts "Pick me!"
+
+  puts "Pick me!"
+
+  puts "Pick me!"
+
+  puts "Pick me!"
+
+
     end
-  end
-  end
+
 end
